@@ -1,1 +1,1 @@
-# NEU-OSD-APP
+# NEU OSD APP
